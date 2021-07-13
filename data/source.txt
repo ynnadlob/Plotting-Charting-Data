@@ -1,0 +1,5 @@
+https://climateknowledgeportal.worldbank.org/download-data
+
+Choose Historical Tab
+Variables: Max-Temperature and Min-Temperature
+Country: Ecuador
